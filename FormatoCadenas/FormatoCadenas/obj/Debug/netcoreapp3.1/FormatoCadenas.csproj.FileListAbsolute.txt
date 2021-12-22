@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\bin\Debug\netcoreapp3.1\FormatoCadenas.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\bin\Debug\netcoreapp3.1\FormatoCadenas.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\bin\Debug\netcoreapp3.1\FormatoCadenas.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\bin\Debug\netcoreapp3.1\FormatoCadenas.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\bin\Debug\netcoreapp3.1\FormatoCadenas.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\bin\Debug\netcoreapp3.1\FormatoCadenas.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\obj\Debug\netcoreapp3.1\FormatoCadenas.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\obj\Debug\netcoreapp3.1\FormatoCadenas.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\obj\Debug\netcoreapp3.1\FormatoCadenas.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\obj\Debug\netcoreapp3.1\FormatoCadenas.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\obj\Debug\netcoreapp3.1\FormatoCadenas.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\obj\Debug\netcoreapp3.1\FormatoCadenas.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\FormatoCadenas\FormatoCadenas\obj\Debug\netcoreapp3.1\FormatoCadenas.genruntimeconfig.cache

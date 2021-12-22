@@ -1,0 +1,26 @@
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.csprojAssemblyReference.cache
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.AssemblyInfoInputs.cache
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.AssemblyInfo.cs
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.csproj.CoreCompileInputs.cache
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\bin\Debug\netcoreapp3.1\IteracionArreglo.exe
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\bin\Debug\netcoreapp3.1\IteracionArreglo.deps.json
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\bin\Debug\netcoreapp3.1\IteracionArreglo.runtimeconfig.json
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\bin\Debug\netcoreapp3.1\IteracionArreglo.runtimeconfig.dev.json
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\bin\Debug\netcoreapp3.1\IteracionArreglo.dll
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\bin\Debug\netcoreapp3.1\IteracionArreglo.pdb
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.dll
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.pdb
+C:\Users\Jose Crespo\source\repos\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.genruntimeconfig.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\bin\Debug\netcoreapp3.1\IteracionArreglo.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\bin\Debug\netcoreapp3.1\IteracionArreglo.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\bin\Debug\netcoreapp3.1\IteracionArreglo.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\bin\Debug\netcoreapp3.1\IteracionArreglo.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\bin\Debug\netcoreapp3.1\IteracionArreglo.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\bin\Debug\netcoreapp3.1\IteracionArreglo.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\IteracionArreglo\IteracionArreglo\obj\Debug\netcoreapp3.1\IteracionArreglo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\bin\Debug\netcoreapp3.1\persona.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\bin\Debug\netcoreapp3.1\persona.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\bin\Debug\netcoreapp3.1\persona.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\bin\Debug\netcoreapp3.1\persona.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\bin\Debug\netcoreapp3.1\persona.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\bin\Debug\netcoreapp3.1\persona.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\obj\Debug\netcoreapp3.1\persona.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\obj\Debug\netcoreapp3.1\persona.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\obj\Debug\netcoreapp3.1\persona.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\obj\Debug\netcoreapp3.1\persona.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\obj\Debug\netcoreapp3.1\persona.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\obj\Debug\netcoreapp3.1\persona.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\persona\persona\obj\Debug\netcoreapp3.1\persona.genruntimeconfig.cache

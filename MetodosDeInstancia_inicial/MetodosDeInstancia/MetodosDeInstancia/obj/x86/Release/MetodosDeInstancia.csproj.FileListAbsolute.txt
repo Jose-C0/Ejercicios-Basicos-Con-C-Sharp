@@ -1,0 +1,5 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\MetodosDeInstancia_inicial\MetodosDeInstancia\MetodosDeInstancia\bin\Release\MetodosDeInstancia.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\MetodosDeInstancia_inicial\MetodosDeInstancia\MetodosDeInstancia\bin\Release\MetodosDeInstancia.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\MetodosDeInstancia_inicial\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Release\MetodosDeInstancia.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\MetodosDeInstancia_inicial\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Release\MetodosDeInstancia.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\MetodosDeInstancia_inicial\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Release\MetodosDeInstancia.pdb

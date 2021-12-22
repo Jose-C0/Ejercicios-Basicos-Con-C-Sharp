@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.genruntimeconfig.cache

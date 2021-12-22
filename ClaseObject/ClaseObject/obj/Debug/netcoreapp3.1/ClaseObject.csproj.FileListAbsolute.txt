@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\bin\Debug\netcoreapp3.1\ClaseObject.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\bin\Debug\netcoreapp3.1\ClaseObject.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\bin\Debug\netcoreapp3.1\ClaseObject.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\bin\Debug\netcoreapp3.1\ClaseObject.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\bin\Debug\netcoreapp3.1\ClaseObject.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\bin\Debug\netcoreapp3.1\ClaseObject.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseObject\ClaseObject\obj\Debug\netcoreapp3.1\ClaseObject.genruntimeconfig.cache

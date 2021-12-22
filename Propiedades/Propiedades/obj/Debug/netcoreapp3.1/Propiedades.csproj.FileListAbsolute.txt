@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\bin\Debug\netcoreapp3.1\Propiedades.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\bin\Debug\netcoreapp3.1\Propiedades.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\bin\Debug\netcoreapp3.1\Propiedades.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\bin\Debug\netcoreapp3.1\Propiedades.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\bin\Debug\netcoreapp3.1\Propiedades.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\bin\Debug\netcoreapp3.1\Propiedades.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.genruntimeconfig.cache

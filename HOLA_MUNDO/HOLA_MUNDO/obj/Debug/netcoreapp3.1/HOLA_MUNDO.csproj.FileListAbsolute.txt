@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\bin\Debug\netcoreapp3.1\HOLA_MUNDO.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\bin\Debug\netcoreapp3.1\HOLA_MUNDO.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\bin\Debug\netcoreapp3.1\HOLA_MUNDO.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\bin\Debug\netcoreapp3.1\HOLA_MUNDO.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\bin\Debug\netcoreapp3.1\HOLA_MUNDO.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\bin\Debug\netcoreapp3.1\HOLA_MUNDO.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\obj\Debug\netcoreapp3.1\HOLA_MUNDO.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\obj\Debug\netcoreapp3.1\HOLA_MUNDO.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\obj\Debug\netcoreapp3.1\HOLA_MUNDO.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\obj\Debug\netcoreapp3.1\HOLA_MUNDO.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\obj\Debug\netcoreapp3.1\HOLA_MUNDO.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\obj\Debug\netcoreapp3.1\HOLA_MUNDO.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\HOLA_MUNDO\HOLA_MUNDO\obj\Debug\netcoreapp3.1\HOLA_MUNDO.genruntimeconfig.cache

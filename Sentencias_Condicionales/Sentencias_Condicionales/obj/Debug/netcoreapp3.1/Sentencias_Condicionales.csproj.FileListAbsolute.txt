@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\obj\Debug\netcoreapp3.1\Sentencias_Condicionales.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\obj\Debug\netcoreapp3.1\Sentencias_Condicionales.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\obj\Debug\netcoreapp3.1\Sentencias_Condicionales.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\obj\Debug\netcoreapp3.1\Sentencias_Condicionales.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\bin\Debug\netcoreapp3.1\Sentencias_Condicionales.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\bin\Debug\netcoreapp3.1\Sentencias_Condicionales.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\bin\Debug\netcoreapp3.1\Sentencias_Condicionales.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\bin\Debug\netcoreapp3.1\Sentencias_Condicionales.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\bin\Debug\netcoreapp3.1\Sentencias_Condicionales.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\bin\Debug\netcoreapp3.1\Sentencias_Condicionales.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\obj\Debug\netcoreapp3.1\Sentencias_Condicionales.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\obj\Debug\netcoreapp3.1\Sentencias_Condicionales.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Sentencias_Condicionales\Sentencias_Condicionales\obj\Debug\netcoreapp3.1\Sentencias_Condicionales.genruntimeconfig.cache

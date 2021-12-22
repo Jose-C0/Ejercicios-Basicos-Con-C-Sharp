@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\obj\Debug\netcoreapp3.1\UsodeArreglos.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\obj\Debug\netcoreapp3.1\UsodeArreglos.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\obj\Debug\netcoreapp3.1\UsodeArreglos.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\obj\Debug\netcoreapp3.1\UsodeArreglos.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\bin\Debug\netcoreapp3.1\UsodeArreglos.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\bin\Debug\netcoreapp3.1\UsodeArreglos.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\bin\Debug\netcoreapp3.1\UsodeArreglos.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\bin\Debug\netcoreapp3.1\UsodeArreglos.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\bin\Debug\netcoreapp3.1\UsodeArreglos.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\bin\Debug\netcoreapp3.1\UsodeArreglos.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\obj\Debug\netcoreapp3.1\UsodeArreglos.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\obj\Debug\netcoreapp3.1\UsodeArreglos.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\UsodeArreglos\UsodeArreglos\obj\Debug\netcoreapp3.1\UsodeArreglos.genruntimeconfig.cache

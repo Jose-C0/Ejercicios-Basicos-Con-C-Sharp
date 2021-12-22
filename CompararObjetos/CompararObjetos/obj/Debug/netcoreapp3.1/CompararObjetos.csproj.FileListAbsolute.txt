@@ -1,0 +1,12 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\CompararObjetos\CompararObjetos\bin\Debug\netcoreapp3.1\CompararObjetos.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\CompararObjetos\CompararObjetos\bin\Debug\netcoreapp3.1\CompararObjetos.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\CompararObjetos\CompararObjetos\bin\Debug\netcoreapp3.1\CompararObjetos.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\CompararObjetos\CompararObjetos\bin\Debug\netcoreapp3.1\CompararObjetos.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\CompararObjetos\CompararObjetos\bin\Debug\netcoreapp3.1\CompararObjetos.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\CompararObjetos\CompararObjetos\bin\Debug\netcoreapp3.1\CompararObjetos.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\CompararObjetos\CompararObjetos\obj\Debug\netcoreapp3.1\CompararObjetos.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\CompararObjetos\CompararObjetos\obj\Debug\netcoreapp3.1\CompararObjetos.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\CompararObjetos\CompararObjetos\obj\Debug\netcoreapp3.1\CompararObjetos.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\CompararObjetos\CompararObjetos\obj\Debug\netcoreapp3.1\CompararObjetos.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\CompararObjetos\CompararObjetos\obj\Debug\netcoreapp3.1\CompararObjetos.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\CompararObjetos\CompararObjetos\obj\Debug\netcoreapp3.1\CompararObjetos.genruntimeconfig.cache

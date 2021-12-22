@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\bin\Debug\netcoreapp3.1\Estructuras.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\bin\Debug\netcoreapp3.1\Estructuras.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\bin\Debug\netcoreapp3.1\Estructuras.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\bin\Debug\netcoreapp3.1\Estructuras.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\bin\Debug\netcoreapp3.1\Estructuras.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\bin\Debug\netcoreapp3.1\Estructuras.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\obj\Debug\netcoreapp3.1\Estructuras.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\obj\Debug\netcoreapp3.1\Estructuras.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\obj\Debug\netcoreapp3.1\Estructuras.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\obj\Debug\netcoreapp3.1\Estructuras.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\obj\Debug\netcoreapp3.1\Estructuras.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\obj\Debug\netcoreapp3.1\Estructuras.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Estructuras\Estructuras\obj\Debug\netcoreapp3.1\Estructuras.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.genruntimeconfig.cache

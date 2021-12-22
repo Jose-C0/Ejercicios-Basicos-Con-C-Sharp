@@ -1,0 +1,13 @@
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.exe
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.deps.json
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.runtimeconfig.json
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.runtimeconfig.dev.json
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.dll
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.pdb
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.csprojAssemblyReference.cache
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.AssemblyInfoInputs.cache
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.AssemblyInfo.cs
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.dll
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.pdb
+C:\Users\Jose Crespo\source\repos\Namespaces\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.genruntimeconfig.cache

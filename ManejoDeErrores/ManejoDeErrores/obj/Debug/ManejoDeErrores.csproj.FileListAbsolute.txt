@@ -1,0 +1,12 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoDeErrores\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoDeErrores\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoDeErrores\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoDeErrores\ManejoDeErrores\obj\Debug\ManejoDeErrores.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoDeErrores\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoDeErrores\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe.config
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoDeErrores\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoDeErrores\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoDeErrores\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoDeErrores\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoDeErrores\ManejoDeErrores\obj\Debug\ManejoDeErrores.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoDeErrores\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb

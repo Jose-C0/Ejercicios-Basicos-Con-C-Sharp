@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.genruntimeconfig.cache

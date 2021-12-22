@@ -1,0 +1,12 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\NumerosAleatorios\NumerosAleatorios\bin\Debug\netcoreapp3.1\NumerosAleatorios.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\NumerosAleatorios\NumerosAleatorios\bin\Debug\netcoreapp3.1\NumerosAleatorios.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\NumerosAleatorios\NumerosAleatorios\bin\Debug\netcoreapp3.1\NumerosAleatorios.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\NumerosAleatorios\NumerosAleatorios\bin\Debug\netcoreapp3.1\NumerosAleatorios.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\NumerosAleatorios\NumerosAleatorios\bin\Debug\netcoreapp3.1\NumerosAleatorios.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\NumerosAleatorios\NumerosAleatorios\bin\Debug\netcoreapp3.1\NumerosAleatorios.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\NumerosAleatorios\NumerosAleatorios\obj\Debug\netcoreapp3.1\NumerosAleatorios.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\NumerosAleatorios\NumerosAleatorios\obj\Debug\netcoreapp3.1\NumerosAleatorios.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\NumerosAleatorios\NumerosAleatorios\obj\Debug\netcoreapp3.1\NumerosAleatorios.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\NumerosAleatorios\NumerosAleatorios\obj\Debug\netcoreapp3.1\NumerosAleatorios.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\NumerosAleatorios\NumerosAleatorios\obj\Debug\netcoreapp3.1\NumerosAleatorios.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\NumerosAleatorios\NumerosAleatorios\obj\Debug\netcoreapp3.1\NumerosAleatorios.genruntimeconfig.cache

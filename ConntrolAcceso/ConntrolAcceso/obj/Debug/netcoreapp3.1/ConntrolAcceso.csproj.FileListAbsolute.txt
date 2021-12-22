@@ -1,0 +1,13 @@
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\obj\Debug\netcoreapp3.1\ConntrolAcceso.csprojAssemblyReference.cache
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\obj\Debug\netcoreapp3.1\ConntrolAcceso.AssemblyInfoInputs.cache
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\obj\Debug\netcoreapp3.1\ConntrolAcceso.AssemblyInfo.cs
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\obj\Debug\netcoreapp3.1\ConntrolAcceso.csproj.CoreCompileInputs.cache
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\bin\Debug\netcoreapp3.1\ConntrolAcceso.exe
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\bin\Debug\netcoreapp3.1\ConntrolAcceso.deps.json
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\bin\Debug\netcoreapp3.1\ConntrolAcceso.runtimeconfig.json
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\bin\Debug\netcoreapp3.1\ConntrolAcceso.runtimeconfig.dev.json
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\bin\Debug\netcoreapp3.1\ConntrolAcceso.dll
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\bin\Debug\netcoreapp3.1\ConntrolAcceso.pdb
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\obj\Debug\netcoreapp3.1\ConntrolAcceso.dll
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\obj\Debug\netcoreapp3.1\ConntrolAcceso.pdb
+C:\Users\Jose Crespo\source\repos\ConntrolAcceso\ConntrolAcceso\obj\Debug\netcoreapp3.1\ConntrolAcceso.genruntimeconfig.cache

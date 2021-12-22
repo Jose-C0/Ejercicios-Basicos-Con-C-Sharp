@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.genruntimeconfig.cache

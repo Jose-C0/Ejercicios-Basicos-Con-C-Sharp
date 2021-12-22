@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\bin\Debug\netcoreapp3.1\PromedioCalificaciones.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\bin\Debug\netcoreapp3.1\PromedioCalificaciones.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\bin\Debug\netcoreapp3.1\PromedioCalificaciones.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\bin\Debug\netcoreapp3.1\PromedioCalificaciones.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\bin\Debug\netcoreapp3.1\PromedioCalificaciones.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\bin\Debug\netcoreapp3.1\PromedioCalificaciones.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\netcoreapp3.1\PromedioCalificaciones.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\netcoreapp3.1\PromedioCalificaciones.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\netcoreapp3.1\PromedioCalificaciones.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\netcoreapp3.1\PromedioCalificaciones.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\netcoreapp3.1\PromedioCalificaciones.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\netcoreapp3.1\PromedioCalificaciones.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\netcoreapp3.1\PromedioCalificaciones.genruntimeconfig.cache

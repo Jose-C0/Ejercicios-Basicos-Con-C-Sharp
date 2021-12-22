@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\bin\Debug\netcoreapp3.1\Ciclos.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\bin\Debug\netcoreapp3.1\Ciclos.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\bin\Debug\netcoreapp3.1\Ciclos.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\bin\Debug\netcoreapp3.1\Ciclos.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\bin\Debug\netcoreapp3.1\Ciclos.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\bin\Debug\netcoreapp3.1\Ciclos.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\obj\Debug\netcoreapp3.1\Ciclos.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\obj\Debug\netcoreapp3.1\Ciclos.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\obj\Debug\netcoreapp3.1\Ciclos.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\obj\Debug\netcoreapp3.1\Ciclos.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\obj\Debug\netcoreapp3.1\Ciclos.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\obj\Debug\netcoreapp3.1\Ciclos.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Ciclos\Ciclos\obj\Debug\netcoreapp3.1\Ciclos.genruntimeconfig.cache

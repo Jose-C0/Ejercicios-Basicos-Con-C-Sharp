@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\bin\Debug\netcoreapp3.1\TiposVariables.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\bin\Debug\netcoreapp3.1\TiposVariables.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\bin\Debug\netcoreapp3.1\TiposVariables.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\bin\Debug\netcoreapp3.1\TiposVariables.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\bin\Debug\netcoreapp3.1\TiposVariables.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\bin\Debug\netcoreapp3.1\TiposVariables.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\obj\Debug\netcoreapp3.1\TiposVariables.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\obj\Debug\netcoreapp3.1\TiposVariables.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\obj\Debug\netcoreapp3.1\TiposVariables.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\obj\Debug\netcoreapp3.1\TiposVariables.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\obj\Debug\netcoreapp3.1\TiposVariables.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\obj\Debug\netcoreapp3.1\TiposVariables.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\TiposVariables\TiposVariables\obj\Debug\netcoreapp3.1\TiposVariables.genruntimeconfig.cache

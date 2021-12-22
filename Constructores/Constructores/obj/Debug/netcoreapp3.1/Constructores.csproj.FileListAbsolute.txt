@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.genruntimeconfig.cache

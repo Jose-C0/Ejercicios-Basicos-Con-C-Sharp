@@ -1,0 +1,6 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\MiembrosEstaticos\MiembrosEstaticos\bin\Debug\MiembrosEstaticos.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\MiembrosEstaticos\MiembrosEstaticos\bin\Debug\MiembrosEstaticos.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\MiembrosEstaticos\MiembrosEstaticos\obj\x86\Debug\MiembrosEstaticos.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\MiembrosEstaticos\MiembrosEstaticos\obj\x86\Debug\MiembrosEstaticos.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\MiembrosEstaticos\MiembrosEstaticos\obj\x86\Debug\MiembrosEstaticos.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\MiembrosEstaticos\MiembrosEstaticos\obj\x86\Debug\MiembrosEstaticos.pdb

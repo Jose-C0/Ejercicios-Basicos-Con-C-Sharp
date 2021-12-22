@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.genruntimeconfig.cache

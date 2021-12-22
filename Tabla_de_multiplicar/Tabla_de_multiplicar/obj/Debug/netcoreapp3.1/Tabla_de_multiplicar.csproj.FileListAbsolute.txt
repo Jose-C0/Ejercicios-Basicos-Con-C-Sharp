@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\bin\Debug\netcoreapp3.1\Tabla_de_multiplicar.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\bin\Debug\netcoreapp3.1\Tabla_de_multiplicar.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\bin\Debug\netcoreapp3.1\Tabla_de_multiplicar.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\bin\Debug\netcoreapp3.1\Tabla_de_multiplicar.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\bin\Debug\netcoreapp3.1\Tabla_de_multiplicar.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\bin\Debug\netcoreapp3.1\Tabla_de_multiplicar.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\obj\Debug\netcoreapp3.1\Tabla_de_multiplicar.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\obj\Debug\netcoreapp3.1\Tabla_de_multiplicar.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\obj\Debug\netcoreapp3.1\Tabla_de_multiplicar.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\obj\Debug\netcoreapp3.1\Tabla_de_multiplicar.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\obj\Debug\netcoreapp3.1\Tabla_de_multiplicar.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\obj\Debug\netcoreapp3.1\Tabla_de_multiplicar.genruntimeconfig.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\Tabla_de_multiplicar\Tabla_de_multiplicar\obj\Debug\netcoreapp3.1\Tabla_de_multiplicar.csprojAssemblyReference.cache

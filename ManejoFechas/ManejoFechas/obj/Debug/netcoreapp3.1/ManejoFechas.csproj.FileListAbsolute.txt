@@ -1,0 +1,12 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoFechas\ManejoFechas\obj\Debug\netcoreapp3.1\ManejoFechas.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoFechas\ManejoFechas\obj\Debug\netcoreapp3.1\ManejoFechas.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoFechas\ManejoFechas\obj\Debug\netcoreapp3.1\ManejoFechas.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoFechas\ManejoFechas\bin\Debug\netcoreapp3.1\ManejoFechas.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoFechas\ManejoFechas\bin\Debug\netcoreapp3.1\ManejoFechas.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoFechas\ManejoFechas\bin\Debug\netcoreapp3.1\ManejoFechas.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoFechas\ManejoFechas\bin\Debug\netcoreapp3.1\ManejoFechas.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoFechas\ManejoFechas\bin\Debug\netcoreapp3.1\ManejoFechas.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoFechas\ManejoFechas\bin\Debug\netcoreapp3.1\ManejoFechas.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoFechas\ManejoFechas\obj\Debug\netcoreapp3.1\ManejoFechas.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoFechas\ManejoFechas\obj\Debug\netcoreapp3.1\ManejoFechas.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ManejoFechas\ManejoFechas\obj\Debug\netcoreapp3.1\ManejoFechas.genruntimeconfig.cache

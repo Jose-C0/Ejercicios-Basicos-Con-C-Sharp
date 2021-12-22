@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\bin\Debug\netcoreapp3.1\OperacionesMatrices.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\bin\Debug\netcoreapp3.1\OperacionesMatrices.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\bin\Debug\netcoreapp3.1\OperacionesMatrices.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\bin\Debug\netcoreapp3.1\OperacionesMatrices.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\bin\Debug\netcoreapp3.1\OperacionesMatrices.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\bin\Debug\netcoreapp3.1\OperacionesMatrices.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\obj\Debug\netcoreapp3.1\OperacionesMatrices.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\obj\Debug\netcoreapp3.1\OperacionesMatrices.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\obj\Debug\netcoreapp3.1\OperacionesMatrices.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\obj\Debug\netcoreapp3.1\OperacionesMatrices.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\obj\Debug\netcoreapp3.1\OperacionesMatrices.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\obj\Debug\netcoreapp3.1\OperacionesMatrices.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\OperacionesMatrices\OperacionesMatrices\obj\Debug\netcoreapp3.1\OperacionesMatrices.genruntimeconfig.cache

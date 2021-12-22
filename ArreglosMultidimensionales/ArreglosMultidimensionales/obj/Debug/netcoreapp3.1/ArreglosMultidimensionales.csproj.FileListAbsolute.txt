@@ -1,0 +1,13 @@
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\netcoreapp3.1\ArreglosMultidimensionales.exe
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\netcoreapp3.1\ArreglosMultidimensionales.deps.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\netcoreapp3.1\ArreglosMultidimensionales.runtimeconfig.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\netcoreapp3.1\ArreglosMultidimensionales.runtimeconfig.dev.json
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\netcoreapp3.1\ArreglosMultidimensionales.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\netcoreapp3.1\ArreglosMultidimensionales.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\netcoreapp3.1\ArreglosMultidimensionales.csprojAssemblyReference.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\netcoreapp3.1\ArreglosMultidimensionales.AssemblyInfoInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\netcoreapp3.1\ArreglosMultidimensionales.AssemblyInfo.cs
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\netcoreapp3.1\ArreglosMultidimensionales.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\netcoreapp3.1\ArreglosMultidimensionales.dll
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\netcoreapp3.1\ArreglosMultidimensionales.pdb
+I:\Windows_10_ROG\Archivos\UDEMY\C#\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\netcoreapp3.1\ArreglosMultidimensionales.genruntimeconfig.cache
